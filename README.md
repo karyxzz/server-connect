@@ -1,7 +1,3 @@
-Of course. Here is a complete README file that explains your project. You can copy and paste this into a new file named `README.md` in your project's main folder.
-
------
-
 # Server Connect - WebRTC Video Chat
 
 Server Connect is a real-time video and audio chat application that allows users to connect with each other in two ways: by sharing a personal code or by connecting with a random stranger. It uses WebRTC for peer-to-peer communication, ensuring low-latency connections.
